@@ -1,0 +1,18 @@
+{
+    "name": "prestashop/github-webhook-parser",
+    "description": "Converts Github API v3 events to PHP objects",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/PrestaShop/github-webhook-parser",
+    "authors": [
+        {
+            "name": "PrestaShop SA",
+            "email": "contact@prestashop.com"
+        },
+        {
+            "name": "Thomas Baccelli",
+            "email": "thomas.baccelli@prestashop.com"
+        }
+    ],
+    "require": {}
+}
