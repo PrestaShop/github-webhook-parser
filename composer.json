@@ -14,5 +14,8 @@
             "email": "thomas.baccelli@prestashop.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": { "PrestaShop\\Github\\": "src/" }
+    }
 }
