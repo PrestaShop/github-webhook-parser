@@ -1,0 +1,7 @@
+<phpunit cacheResult="false">
+    <testsuites>
+        <testsuite name="github webhook parser test suite">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

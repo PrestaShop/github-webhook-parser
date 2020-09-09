@@ -17,5 +17,11 @@
     "require": {},
     "autoload": {
         "psr-4": { "PrestaShop\\Github\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Test\\PrestaShop\\Github\\": "tests/" }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.3"
     }
 }
